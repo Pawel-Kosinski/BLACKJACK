@@ -30,4 +30,7 @@ public:
 		}
 		return value;
 	}
+	void clearHand() {
+		hand_.clear();
+	}
 };
